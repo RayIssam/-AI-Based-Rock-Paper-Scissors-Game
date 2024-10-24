@@ -1,4 +1,4 @@
-** AI-Based-Rock-Paper-Scissors-Game **
+<h1></h1> AI-Based-Rock-Paper-Scissors-Game </h1>
 implementation of an AI-based RPS game that attempts to predict human behavior by adapting to the player's moves.
 The AI system picks up a pattern of previously played rounds to make a prediction on the next move the player will make. 
 By factoring in patterns, and focusing on the most recent rounds played, the AI maximizes the opportunity to win. 
